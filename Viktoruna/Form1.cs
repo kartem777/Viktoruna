@@ -19,9 +19,6 @@ namespace Viktoruna
             label1.Text = "score:" + a.ToString() + "/6";
         }
 
-        private void radioButton12_CheckedChanged(object sender, EventArgs e)
-        {
 
-        }
     }
 }
