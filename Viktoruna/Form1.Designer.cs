@@ -243,7 +243,6 @@
             radioButton12.TabStop = true;
             radioButton12.Text = "radioButton12";
             radioButton12.UseVisualStyleBackColor = true;
-            radioButton12.CheckedChanged += radioButton12_CheckedChanged;
             // 
             // radioButton11
             // 
